@@ -36,3 +36,4 @@ echo ‘$FILENAME HaplotypeCalled’
 ## Message that you are done with the job
 echo "Finished running jobs"
 
+## Finished code
